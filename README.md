@@ -2,7 +2,7 @@
 
 Este repositório contém os arquivos e etapas realizadas por mim durante a atividade de versionamento com Git e GitHub.
 
-## ✔ Etapas que realizei
+## Etapas que realizei
 
 1. Criei um repositório local e inicializei o Git.
 2. Criei o arquivo **index.txt** com a versão inicial contendo `<H1> TÍTULO1 </H1>`.
@@ -14,7 +14,7 @@ Este repositório contém os arquivos e etapas realizadas por mim durante a ativ
 8. Resolvi manualmente o conflito gerado entre as duas versões.
 9. Finalizei o merge e publiquei o resultado.
 
-## ✔ Arquivos incluídos neste repositório
+## Arquivos incluídos neste repositório
 
 - `index_inicial.txt` — Versão inicial criada.
 - `index_main.txt` — Versão alterada na branch main.
