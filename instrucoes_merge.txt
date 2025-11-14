@@ -1,0 +1,7 @@
+1. Faça commit da versão VERSIONAMENTO na main.
+2. Faça commit da versão GIT na branch feature1.
+3. Faça merge da feature1 na main:
+   git checkout main
+   git merge feature1
+4. Resolva o conflito editando o arquivo.
+5. Faça add, commit e push da resolução.
