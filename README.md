@@ -1,4 +1,4 @@
-# Atividade de Versionamento - Conclusão
+# Atividade de Versionamento 
 
 Este repositório contém os arquivos e etapas realizadas por mim durante a atividade de versionamento com Git e GitHub.
 
